@@ -1,13 +1,14 @@
+
+
 ### Olá eu sou o Reinaldo Junior 🖐️
 
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rsljunior86/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/reinaldo.junior.1420354/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee)](https://www.linkedin.com/in/reinaldojunior86/)
+
 
 
 ![Reinaldo Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=estudionova&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estudionova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso no dia a dia
@@ -22,4 +23,3 @@
 </div><br />
 
 #### Eterno Estudante de tecnologia, apaixonado por java!
-
